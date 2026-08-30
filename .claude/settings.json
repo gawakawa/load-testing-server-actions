@@ -1,0 +1,5 @@
+{
+	"permissions": {
+		"ask": ["Edit(./.oxlintrc.json)", "Edit(./package.json)"]
+	}
+}
