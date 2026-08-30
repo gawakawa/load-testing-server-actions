@@ -6,7 +6,7 @@ _: {
         config.ciPackages
         ++ config.pre-commit.settings.enabledPackages
         ++ (with pkgs; [
-          # Additional development tools can be added here
+          k6
         ]);
     in
     {
