@@ -1,6 +1,10 @@
 # CLAUDE.md
 
+@AGENTS.md
+
 ## Overview
+
+An experimental repository for verifying whether Next.js Server Actions can be load-tested with k6 and Locust.
 
 ## Docs
 
